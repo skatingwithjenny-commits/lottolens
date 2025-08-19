@@ -1,0 +1,8 @@
+END USER LICENSE AGREEMENT (EULA)
+- Personal, non-transferable license.
+- No resale or redistribution.
+- Provided “AS IS” without warranties.
+- Developer is not liable for losses or damages.
+- Lottery outcomes are random; this does not predict or guarantee winnings.
+- All trademarks belong to their owners.
+- Use of this software constitutes acceptance of this EULA and Disclaimer.
